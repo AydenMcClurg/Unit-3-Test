@@ -1,3 +1,4 @@
+
 form p{
     float: left;
     width: 50%;
@@ -6,13 +7,13 @@ body{
     vertical-align: middle;
 }
 html{
-    background: radial-gradient( aqua, teal, black);
+    background: linear-gradient(lightpink, pink, hotpink);
     color: white;
     height: 100%;
     text-align: center;
 }
 input{
-    background-color: rgb(233, 164, 16);
+    background-color: rgb(114, 191, 203);
     color: indigo;
     border: 2px solid  indigo;
     box-shadow: indigo 3px 3px 3px;
@@ -20,15 +21,16 @@ input{
 }
 
 button{
-    background-color: rgb(219, 146, 50);
+    background-color: rgb(127, 212, 225);
     color:  (41, 23, 0);
     border: 2px solid  black;
     margin: 2px;
-    font-size: 15px;
+    font-size: 30px;
     box-shadow: indigo 3px 3px 3px;
 }
 form, p{
-    color:rgb(236, 178, 71);
-    font-size: 20px;
-    text-shadow: black 2px 2px 2px;
+    color:rgb(127, 158, 225);
+    font-size: 30px;
+    text-shadow: rgba(14, 7, 148, 0.756) 2px 2px 2px;
+    font-style: oblique;
 }
